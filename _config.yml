@@ -2,7 +2,7 @@ name:          Dow Jones WordPress CMS Best Practices
 title:         Dow Jones WordPress CMS Best Practices
 description:   WordPress CMS best practices used by Dow Jones.
 url:           https://newscorp-ghfb.github.io/
-baseurl:       /Engineering-Best-Practices
+baseurl:       /dj-wp-CMS-handbook
 author:
   name:    Dow Jones
   email:   info@dowjones.com
