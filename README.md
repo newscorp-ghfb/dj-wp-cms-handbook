@@ -1,11 +1,11 @@
 # Dow Jones WordPress CMS Best Practices
 
-These are the official best practices for Dow Jones. This guide dictates how we, as a company, engineer websites. The purpose behind them is to improve the quality of the experiences we build as well as to standardize in order to facilitate more effective collaboration.
+These are the official best practices for Dow Jones. This guide dictates how we, as a company, utilize WordPress across roganizations. The purpose behind them is to improve the quality of the experiences we build as well as to standardize in order to facilitate more effective collaboration.
 
-<a href="https://www.dowjones.com"><img src="https://10updotcom-wpengine.s3.amazonaws.com/uploads/2016/10/10up-Github-Banner.png" width="850"></a>
+<!-- <a href="https://www.dowjones.com"><img src="https://10updotcom-wpengine.s3.amazonaws.com/uploads/2016/10/10up-Github-Banner.png" width="850"></a> -->
 
 
-**[Start reading ☞](https://newscorp-ghfb.github.io/Engineering-Best-Practices/)**
+**[Start reading ☞](https://newscorp-ghfb.github.io/dj-wp-CMS-handbook/)**
 
 ## Contributions
 
