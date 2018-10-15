@@ -3,20 +3,18 @@ page: tools
 title: Tools
 nav: Tools
 group: navigation
-weight: 5
+weight: 2
 layout: default
 subnav:
-  - title: Local Development Environments
+  - title: Local Development
     tag: local-development
-  - title: Task Runners
-    tag: task-runners
-  - title: Package/Dependency Managers
-    tag: package-managers
-  - title: Version Control
-    tag: version-control
-  - title: Command Line Tools
-    tag: command-line
-updated: 6 Oct 2014
+  - title: Documentation
+    tag: documentation
+  - title: Plugin Boilerplate
+    tag: plugin-boilerplate
+  - title: Theme Boilerplate
+    tag: theme-boilerplate
+updated: 15 Oct 2018
 ---
 
 <div class="docs-section">

@@ -1,29 +1,40 @@
 <h2 id="audience" class="anchor-heading">Audience</h2>
 
-The 10up Engineering Best Practices are not geared to teach anyone to become an engineer. Rather, they aim to illustrate how to engineer the 10up way. Therefore, these best practices are intended for capable engineers.
+The WordPress CMS Handbook aims to serve as a single source of truth for those involved in projects using WordPress across various Dow Jones organizations.
+
+### Product
+Understand how WordPress & the new Gutenberg editor can benefit your newsroom.
+
+### Engineering
+Use this handbook for best practices, common project structure, advanced tools, & tips.
+
+### Design
+Quickly get a WordPress instance spinning up on your local computer. Use these resources to help you design an integration with WordPress & existing editorial tools.
+
+### Stakeholders
+Track existing WordPress resources & projects. Understand future WordPress projects and how they can benefit your organization.
+
 
 <h2 id="goal" class="anchor-heading">Goal {% include Util/top %}</h2>
 
-As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to better understand the inner workings of someone else’s project and produce better solutions ourselves.
+The WordPress open source project is a publishing tool that powers over 30% of the internet's top 10 million sites. The project is led by a large community of developers, designers, & others.
 
-As such, 10up engineers should follow these best practices in all their work. Our best practices are not meant to be restrictive or comprehensive; we value creativity at 10up. The aim is for this document to provide a strong guidance, not an authoritative direction. It's our hope that these best practices will not only influence 10uppers but community members as well.
+By not having internal standards for WordPress across organizations, Dow Jones as a whole does not benefit from each WordPress project.
+
+By following a unified best practices aligned with the WordPress community at Dow Jones, we can better leverage community gains & save considerable resources.
+
 
 <h2 id="philosophy" class="anchor-heading">Philosophy {% include Util/top %}</h2>
 
-> "We make web publishing easy. Maybe even fun."
+> "Hackathon ready."
 
-At the very heart of 10up is the publishing or user experience. WordPress, we firmly believe, is the best starting point to achieve this. We design and build custom publishing experiences for major companies and brands around the world. Our publishing experiences or websites are tailor-made for our clients and their specific needs.
+Keep it simple. If your plugin or tool requires multiple API keys, depdendcies, and a mini course to fire up, you are creating friction for those who may want to contribute to your project.
 
-As such, the content management experience cannot be made to be generic. We don't cut corners when it comes to user experience and interface. We don't take shortcuts that compromise the end experience for the user. We don't distribute pre-packaged, auto-generated user interfaces or components.
+> "How will others use this?"
 
-> "Keep it simple."
+One of the great things about WordPress is the robust library of maintained plugins. When building WordPress projects at Dow Jones think of how your project can benefit others. In kind, you will gain project benefits from others.
 
-While our solutions are complex, we want our code, tools, processes, systems, and practices to be as simple as possible. Simplicity facilitates collaboration as there is a lower barrier of entry. This goes for things like PHP design patterns as well as workflow. We discourage practices such as writing extra levels of code abstraction (wrapping existing API's) as they complicate debugging and add another component that needs to be maintained.
-
-> "We are always learning."
-
-We are constantly challenging ourselves and learning. Knowledge gives us a competitive edge. Everyone around us is growing; if we stop growing individually or collectively and stop challenging ourselves to improve, we fall behind. For that reason, this document is not set in stone and will change. Evolving these best practices through contributions is incredibly important to us.
 
 <h2 id="contributing" class="anchor-heading">Contributing {% include Util/top %}</h2>
 
-Please contribute via [pull requests on GitHub](https://github.com/10up/Engineering-Best-Practices).
+Please contribute via [pull requests on GitHub](https://github.com/newscorp-ghfb/dj-wp-CMS-handbook).

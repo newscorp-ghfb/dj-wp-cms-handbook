@@ -5,13 +5,6 @@ nav: Systems
 group: navigation
 weight: 10
 layout: default
-subnav:
-  - title: Nginx
-    tag: nginx
-  - title: PHP-FPM
-    tag: php-fpm
-  - title: MySQL
-    tag: mysql
 updated: 25 June 2018
 ---
 
