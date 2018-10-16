@@ -27,7 +27,7 @@ Syntax and formatting are keys to a maintainable project. By keeping our code st
 
 ### Plugin: DJ WP Short Headline
 *Status:* <span class="status projectReview"></span> In Review  
-*Authors:* Alley Interactive 
-*Goal:* Provides a short headline to distinguish between the headline displayed on the article page vs the headline displayed on landing pages. 
+*Authors:* Alley Interactive  
+*Goal:* Provides a short headline to distinguish between the headline displayed on the article page vs the headline displayed on landing pages.  
 [View On GitHub](https://github.com/newscorp-ghfb/dj-wp-short-headline)
 
