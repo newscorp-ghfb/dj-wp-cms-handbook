@@ -5,19 +5,19 @@ These are the official best practices for Dow Jones. This guide dictates how we,
 <!-- <a href="https://www.dowjones.com"><img src="https://10updotcom-wpengine.s3.amazonaws.com/uploads/2016/10/10up-Github-Banner.png" width="850"></a> -->
 
 
-**[Start reading ☞](https://newscorp-ghfb.github.io/dj-wp-CMS-handbook/)**
+**[Read the wiki ☞](https://github.com/newscorp-ghfb/dj-wp-cms-handbook/wiki)**
 
 ## Contributions
 
 We don't know everything! We welcome pull requests and spirited debates :)
 
-## Running Locally
+## Quick Links
 
-```
-bundle install
-bundle exec jekyll serve
-```
+[Block Starter]()  
+[Plugin Starter]()  
+[Editorial Theme Starter]()  
+[Readme Boilerplate]()  
 
 ## License
 
-Released under MIT by, and copyright 2018 by Dow Jones.
+Released under MIT by, and copyright 20189 by Dow Jones.
