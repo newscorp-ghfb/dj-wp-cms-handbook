@@ -1,3 +1,5 @@
+# THIS IS DEPRECATED REPO - DO NOT USE IT
+
 # Dow Jones WordPress CMS Best Practices
 
 These are the official best practices for Dow Jones. This guide dictates how we, as a company, utilize WordPress across roganizations. The purpose behind them is to improve the quality of the experiences we build as well as to standardize in order to facilitate more effective collaboration.
